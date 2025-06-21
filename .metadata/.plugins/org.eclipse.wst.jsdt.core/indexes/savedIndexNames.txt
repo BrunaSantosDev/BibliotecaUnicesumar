@@ -1,5 +1,10 @@
 INDEX VERSION 1.4+C:\Users\luiza\OneDrive\Meus saves\Faculdade\Imersão profissional fabrica de software\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3389792946.index
 1204385438.index
+531115188.index
+1401331183.index
 2473626675.index
+890551800.index
 2473626675.index
 4183408052.index
+4072041711.index
